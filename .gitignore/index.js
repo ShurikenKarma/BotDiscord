@@ -40,4 +40,4 @@ Client.on("guildMemberRemove", member => {
     member.guild.channels.cache.find(channel => channel.id === "764755797716238341").send("Aurevoir " + "**" + member.displayName + "**" + ". Il est parti si vite :sob:");
 });
 
-Client.login(process.env.TOKEN);
+Client.login(NzY3NDI1NzQwMDgxNDYzMzE2.X4xu6g.R8s_H5at7GsjMN8730dZNw8Erjg);
